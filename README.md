@@ -1,4 +1,4 @@
-# Desktop Starter
+# iModel.js Color-By-Category Challenge
 
 Copyright © Bentley Systems, Inc.
 
